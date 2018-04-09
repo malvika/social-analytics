@@ -834,13 +834,13 @@ plt.title("Sentiment Analysis of Media Tweets (%s)" % (time.strftime("%m/%d/%Y")
 plt.xlabel("Tweets Ago")
 plt.ylabel("Tweet Polarity")
 plt.legend(bbox_to_anchor = (1, 0.95), title = 'Media Sources', fontsize = 'medium')
-plt.savefig("Sentiment_Analysis_of_Media Tweets.png", bbox_inches = "tight")
+plt.savefig("Sentiment_Analysis_of_Media_Tweets.png", bbox_inches = "tight")
 sns.set
 plt.show()
 ```
 
 
-![png](Sentiment_Analysis_of_Media Tweets.png)
+![png](Sentiment_Analysis_of_Media_Tweets.png)
 
 
 
