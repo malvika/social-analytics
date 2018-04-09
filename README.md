@@ -1,4 +1,8 @@
+## Sentiment Analysis and Data Output
 
+### 1. CBS tends to have a more positive tweets than the other media sources analyzed
+### 2. Fox and CNN tend to have more negative tweets than the other media sources analyzed
+### 3. 	The overall average compound scores of the media sources from most positive to most negative are in the following order: CBS, BBC, NY Times, CNN, and Fox  
 
 ```python
 # Import Dependencies
@@ -847,7 +851,7 @@ plt.show()
 ```
 
 
-![png]output_8_0png)
+![Sentiment Analysis of Media Tweets](Sentiment Analysis of Media Tweets.png)
 
 
 
@@ -929,4 +933,4 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![Overall Media Sentiment Analysis](Overall Media Sentiment Analysis.png)
