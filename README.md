@@ -847,7 +847,7 @@ plt.show()
 ```
 
 
-![png]Sentiment Analysis of Media Tweets.png)
+![png]output_8_0png)
 
 
 
@@ -929,4 +929,4 @@ plt.show()
 ```
 
 
-![png](Overall Media Sentiment Analysis.png)
+![png](output_10_0.png)
